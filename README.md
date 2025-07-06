@@ -66,12 +66,18 @@ Bokeh line plots track pricing across all models for each parking lot. These hel
    * Model 1: Linear Occupancy
    * Model 2: Demand Score via city & vehicle factors
    * Model 3: Adjust with competitor prices and distance
+
+## 🧠 Architecture Diagram
+
+![Architecture](architecture.png)
+
+
 4. **Real-Time Processing**:
 
    * Pathway UDF for model execution
 5. **Visualization**:
 
-   * Bokeh pricing plots
+   * Bokeh pricing plots (SEE NOTEBOOK)
 
 ---
 
